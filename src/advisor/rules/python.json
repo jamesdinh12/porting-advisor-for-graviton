@@ -648,6 +648,11 @@
         {
             "name": "existing-library",
             "minVersion": "2.0.0"
+        },
+        {
+            "name": "pjs-name-index",
+            "minVersion": "1.0.0",
+            "arm64Compatible": "Yes"
         }
     ]
 }
