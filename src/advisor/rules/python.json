@@ -644,6 +644,10 @@
         {
             "name": "new-library-2",
             "minVersion": "1.0.0"
+        },
+        {
+            "name": "existing-library",
+            "minVersion": "2.0.0"
         }
     ]
 }
