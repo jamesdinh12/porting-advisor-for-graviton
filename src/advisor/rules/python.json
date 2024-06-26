@@ -653,6 +653,11 @@
             "name": "pjs-name-index",
             "minVersion": "1.0.0",
             "arm64Compatible": "Yes"
+        },
+        {
+            "name": "procaliper",
+            "minVersion": "0.0.1",
+            "arm64Compatible": "Yes"
         }
     ]
 }
