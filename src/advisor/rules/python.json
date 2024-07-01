@@ -638,18 +638,6 @@
             "minVersion": "0.16.0"
         },
         {
-            "name": "new-library",
-            "minVersion": "1.0.0"
-        },
-        {
-            "name": "new-library-2",
-            "minVersion": "1.0.0"
-        },
-        {
-            "name": "existing-library",
-            "minVersion": "2.0.0"
-        },
-        {
             "name": "pjs-name-index",
             "minVersion": "1.0.0",
             "arm64Compatible": "Yes"
